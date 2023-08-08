@@ -1,0 +1,6 @@
+asgiref
+Django
+sqlparse
+Pillow
+flower
+celery
